@@ -1,7 +1,7 @@
 # api
 
 # API Information
-HTTP Method: POST
+HTTP Method: POST <br>
 API URL:	https://panel.jetsosyal.com/api/v2
 API Key: // your secret key //
 Response format: JSON
