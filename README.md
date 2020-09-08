@@ -1,7 +1,7 @@
-# api
+# JetSosyal SMM Panel Basic API Auth # 
 
 # API Information
-HTTP Method: POST <br>
+<b>HTTP Method:</b> POST <br>
 API URL:	https://panel.jetsosyal.com/api/v2 <br>
 API Key: // your secret key // <br>
 Response format: JSON <br>
