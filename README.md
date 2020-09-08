@@ -2,17 +2,17 @@
 
 # API Information
 HTTP Method: POST <br>
-API URL:	https://panel.jetsosyal.com/api/v2
-API Key: // your secret key //
-Response format: JSON
-
-
+API URL:	https://panel.jetsosyal.com/api/v2 <br>
+API Key: // your secret key // <br>
+Response format: JSON <br>
+<br>
+<br>
 # Add Order
-Parameters -	Description
-key: Your API key
-action: add
-service: Service ID
-link: Link to page
-quantity: Needed quantity
-runs (optional): Runs to deliver
-interval (optional): Interval in minutes
+Parameters -	Description <br>
+key: Your API key <br>
+action: add <br>
+service: Service ID <br>
+link: Link to page <br>
+quantity: Needed quantity <br>
+runs (optional): Runs to deliver <br>
+interval (optional): Interval in minutes <br>
